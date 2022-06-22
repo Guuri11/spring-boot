@@ -1,4 +1,4 @@
-package com.example.restfull;
+package com.example.crashcourse;
 
 public class Greeting {
     private final long id;

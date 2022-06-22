@@ -1,10 +1,10 @@
-package com.example.restfull;
+package com.example.crashcourse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestfullApplicationTests {
+class CrashcourseApplicationTests {
 
 	@Test
 	void contextLoads() {

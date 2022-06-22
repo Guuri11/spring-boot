@@ -1,4 +1,4 @@
-package com.example.restfull;
+package com.example.crashcourse;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,12 +10,12 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class RestfullApplication {
+public class CrashcourseApplication {
 
-	private static final Logger log = LoggerFactory.getLogger(RestfullApplication.class);
+	private static final Logger log = LoggerFactory.getLogger(CrashcourseApplication.class);
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestfullApplication.class, args);
+		SpringApplication.run(CrashcourseApplication.class, args);
 	}
 
 	@Bean
